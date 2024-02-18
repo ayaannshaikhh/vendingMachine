@@ -2,14 +2,6 @@
 ## Language: Java
 #### Item, price, maximum stock, quantity, and other variables can be edited.
 ```java
-/*
- * + VENDING MACHINE ASSIGNMENT +
- *  - DESIGNED BY AYAAN SHAIKH -
- *  
- *  TO DO:
- *  - ADD CONSTRUCTORS AND CLASSES (ASK MR. BERARDI)
- */
-
 package vendingsystem;
 
 import java.util.Scanner;

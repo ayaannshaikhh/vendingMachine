@@ -1,6 +1,3 @@
-# This code was created as an assignment for ICS4UA: AP Computer Science.
-## Language: Java
-#### Item, price, maximum stock, quantity, and other variables can be edited.
 ```java
 package vendingsystem;
 
